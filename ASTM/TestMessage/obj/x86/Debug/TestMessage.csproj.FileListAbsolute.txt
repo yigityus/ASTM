@@ -1,0 +1,7 @@
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\TestMessage\bin\Debug\TestMessage.exe
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\TestMessage\bin\Debug\TestMessage.pdb
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\TestMessage\bin\Debug\ASTM.dll
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\TestMessage\bin\Debug\ASTM.pdb
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\TestMessage\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\TestMessage\obj\x86\Debug\TestMessage.exe
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\TestMessage\obj\x86\Debug\TestMessage.pdb

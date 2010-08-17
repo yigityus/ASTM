@@ -1,0 +1,5 @@
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\ASTM\bin\Debug\ASTM.dll
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\ASTM\bin\Debug\ASTM.pdb
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\ASTM\obj\Debug\ResolveAssemblyReference.cache
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\ASTM\obj\Debug\ASTM.dll
+c:\users\i-system\documents\visual studio 2010\Projects\ASTM\ASTM\obj\Debug\ASTM.pdb
